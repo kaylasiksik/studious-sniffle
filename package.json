@@ -9,16 +9,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaylasiksik/miniature-eureka.git"
+    "url": "git+https://github.com/kaylasiksik/studious-sniffle.git"
   },
   "bugs": {
-    "url": "https://github.com/kaylasiksik/miniature-eureka/issues"
+    "url": "https://github.com/kaylasiksik/studious-sniffle/issues"
   },
-  "homepage": "https://github.com/kaylasiksik/miniature-eureka#readme",
+  "homepage": "https://github.com/kaylasiksik/studious-sniffle#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
   }
